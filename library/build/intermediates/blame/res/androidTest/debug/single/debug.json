@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\jussi\\AndroidStudioProjects\\WeatherStation2\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_brushed_alu2.png.flat",
+        "source": "C:\\Users\\jussi\\AndroidStudioProjects\\WeatherStation2\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\brushed_alu2.png"
+    },
+    {
+        "merged": "C:\\Users\\jussi\\AndroidStudioProjects\\WeatherStation2\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_carbon_fibre.png.flat",
+        "source": "C:\\Users\\jussi\\AndroidStudioProjects\\WeatherStation2\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\carbon_fibre.png"
+    },
+    {
+        "merged": "C:\\Users\\jussi\\AndroidStudioProjects\\WeatherStation2\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_brushed_alu.png.flat",
+        "source": "C:\\Users\\jussi\\AndroidStudioProjects\\WeatherStation2\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\brushed_alu.png"
+    },
+    {
+        "merged": "C:\\Users\\jussi\\AndroidStudioProjects\\WeatherStation2\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_light_alu.png.flat",
+        "source": "C:\\Users\\jussi\\AndroidStudioProjects\\WeatherStation2\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\light_alu.png"
+    }
+]

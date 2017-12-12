@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jussi\\AndroidStudioProjects\\WeatherStation2\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jussi\\AndroidStudioProjects\\WeatherStation2\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,229",
+                        "endLines": "7,13",
+                        "endColumns": "19,19",
+                        "endOffsets": "224,374"
+                    }
+                }
+            ]
+        }
+    ]
+}

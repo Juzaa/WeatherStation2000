@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:gauge="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/lightBlue"
+    android:padding="20dp" >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/Black"
+        android:textSize="28dp"
+        android:id="@+id/tempData"/>
+
+    <org.codeandmagic.android.gauge.GaugeView
+        android:id="@+id/gauge_view1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/Black"
+        android:textSize="28dp"
+        android:id="@+id/humiData"/>
+
+    <org.codeandmagic.android.gauge.GaugeView
+        android:id="@+id/gauge_view2"
+        android:layout_width="150dp"
+        gauge:showOuterShadow="false"
+        gauge:showOuterBorder="false"
+        gauge:showInnerRim="false"
+        android:layout_height="150dp"
+        android:layout_marginTop="10dp" />
+
+</LinearLayout>
+
